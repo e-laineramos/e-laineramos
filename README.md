@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm a DevOps intern passionate about building robu
 - Prometheus
 - Grafana
 - CI/CD
+- Git/Github/Gitlab
 
 ## Get in Touch
 
