@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a DevOps intern passionate about building robu
 
 ## Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e-laineramos/) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:correa.elaineramos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e-laineramos/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:correa.elaineramos@gmail.com)
 
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or want to collaborate on an exciting project. Let's connect and build amazing things together! 🚀
