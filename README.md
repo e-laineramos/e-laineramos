@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a DevOps intern passionate about building robu
 
 - 💼 Currently working as a DevOps intern
 - 🌱 Constantly learning and exploring new technologies in the DevOps ecosystem
-- 💻 Love automating processes and improving system reliability
 - 📚 Enjoy sharing knowledge
 
 ## Skills
