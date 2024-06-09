@@ -1,0 +1,29 @@
+# Hi there! 👋
+
+Welcome to my GitHub profile! I'm a DevOps intern passionate about building robust and scalable infrastructures. 
+
+## About Me
+
+- 💼 Currently working as a DevOps intern
+- 🌱 Constantly learning and exploring new technologies in the DevOps ecosystem
+- 💻 Love automating processes and improving system reliability
+- 📚 Enjoy sharing knowledge
+
+## Skills
+
+- Docker
+- Kubernetes
+- Terraform
+- Terragrunt
+- AWS (Amazon Web Services)
+- Istio
+- Prometheus
+- Grafana
+- CI/CD
+
+## Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e-laineramos/) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:correa.elaineramos@gmail.com)
+
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or want to collaborate on an exciting project. Let's connect and build amazing things together! 🚀
