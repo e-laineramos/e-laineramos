@@ -27,3 +27,5 @@ Welcome to my GitHub profile! I'm a DevOps intern passionate about building robu
 
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or want to collaborate on an exciting project. Let's connect and build amazing things together! 🚀
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?e-laineramos=anuraghazra&show_icons=true&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)
