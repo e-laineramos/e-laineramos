@@ -28,4 +28,4 @@ Welcome to my GitHub profile! I'm a DevOps intern passionate about building robu
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or want to collaborate on an exciting project. Let's connect and build amazing things together! 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-laineramos&show_icons=true&theme=holi&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-laineramos&show_icons=true&theme=catppuccin_latte&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
